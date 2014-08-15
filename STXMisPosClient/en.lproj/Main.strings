@@ -1,0 +1,33 @@
+
+/* Class = "IBUINavigationController"; title = "STXMisPos"; ObjectID = "886-bb-sEO"; */
+"886-bb-sEO.title" = "STXMisPos";
+
+/* Class = "IBUIButton"; normalTitle = "退货"; ObjectID = "8aY-ge-yhg"; */
+"8aY-ge-yhg.normalTitle" = "退货";
+
+/* Class = "IBUIButton"; normalTitle = "地址"; ObjectID = "CnT-Fh-YvW"; */
+"CnT-Fh-YvW.normalTitle" = "地址";
+
+/* Class = "IBUIButton"; normalTitle = "查余"; ObjectID = "Gej-wO-SPj"; */
+"Gej-wO-SPj.normalTitle" = "查余";
+
+/* Class = "IBUIButton"; normalTitle = "结算"; ObjectID = "Hfi-U8-omj"; */
+"Hfi-U8-omj.normalTitle" = "结算";
+
+/* Class = "IBUIButton"; normalTitle = "断开"; ObjectID = "TVf-vT-Pbx"; */
+"TVf-vT-Pbx.normalTitle" = "断开";
+
+/* Class = "IBUIButton"; normalTitle = "参数"; ObjectID = "cfb-ug-ep5"; */
+"cfb-ug-ep5.normalTitle" = "参数";
+
+/* Class = "IBUIButton"; normalTitle = "签到"; ObjectID = "dzh-6H-B8H"; */
+"dzh-6H-B8H.normalTitle" = "签到";
+
+/* Class = "IBUIButton"; normalTitle = "消费"; ObjectID = "e5y-id-3yM"; */
+"e5y-id-3yM.normalTitle" = "消费";
+
+/* Class = "IBUIButton"; normalTitle = "状态"; ObjectID = "qgA-f2-2Ut"; */
+"qgA-f2-2Ut.normalTitle" = "状态";
+
+/* Class = "IBUIButton"; normalTitle = "搜索"; ObjectID = "y9D-AT-L1Z"; */
+"y9D-AT-L1Z.normalTitle" = "搜索";
